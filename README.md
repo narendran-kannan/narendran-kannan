@@ -58,6 +58,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=css3&svgfill=028dd1">
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby&svgfill=f06629">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
@@ -85,13 +88,13 @@
 # My Experience :mortar_board: 
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Developer%20Intern&duration=7m&location=chennai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img  src="https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Engineer&duration=11m&location=Chennai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
 # My Stackoverflow profile :eyes:
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=8780399&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
+<img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10463391&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
 # Coming soon :rocket:
