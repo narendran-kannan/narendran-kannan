@@ -9,7 +9,7 @@
 - :telescope: I'm currently working on
 <p align="left">  
 <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=ruby-on-rails&svgfill=df5c43">  
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=rubyonrails&svgfill=df5c43">  
 </a>
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=cd6799">
@@ -35,7 +35,7 @@
 </a>
 </p>
 
-- :thinking_face: I'm looking for help with
+- :thinking: I'm looking for help with
   
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
