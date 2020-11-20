@@ -34,6 +34,7 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=📚&desc=readme-components">
 </a>
 </p>
+
 - :thinking_face: I'm looking for help with
   
 <p align="left">
@@ -64,7 +65,9 @@
 <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
 </a>
 </p>
+
 # My Skills :computer:
+
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=HTML&value=80&design=candy&fill=ff69b4">
@@ -85,22 +88,29 @@
 <img  src="https://readme-components.vercel.app/api?component=linearprogress&skill=GIT&value=70&design=candy&fill=ff69b4">
 </a>
 </p>
+
 # My Experience :mortar_board: 
+
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=experience&company=freshworks&role=software%20Engineer&duration=11m&location=Chennai&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
+
 # My Stackoverflow profile :eyes:
+
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=stackoverflow&stackoverflowid=10463391&textfill=black&fill=linear-gradient%2862deg%2C%20%238EC5FC%200%25%2C%20%23E0C3FC%20100%25%29%3B%0A">
 </a>
 </p>
+
 # Coming soon :rocket:
+
 <p align="left">
 <a href="https://github.com/harish-sethuraman/readme-components">
 <img  src="https://readme-components.vercel.app/api?component=">
 </a>
 </p>
+
 # Made with :purple_heart: using components from [Readme components](https://github.com/harish-sethuraman/readme-components)
